@@ -1,0 +1,58 @@
+{
+    "sinup": { 
+    "name": "Juliana França",
+    "cpf" : "99998888899",
+    "email" : "juliana.franca@gft.com",
+    "whatsaap" : "13999999999",
+    
+    "address" : {
+    "postalcode" : "11025-202",
+     "street" : "Rua Alexandre Martins",
+     "number" : "111",
+     "details" : "Apto 11",
+     "district": "Aparecida",
+     "city_state" : "Santos/SP"
+    },
+    "delivery_method" : "Moto",
+    "cnh" : "cnh-digital.jpg" 
+    },
+    
+    "cpf_inv" :{
+        "name": "Juliana França",
+        "cpf": "99998888899aa",
+        "email": "juliana.franca@gft.com",
+        "whatsaap": "13999999999",
+    
+        "address": {
+            "postalcode": "11025-202",
+            "street": "Rua Alexandre Martins",
+            "number":"111",
+            "details":"Apto 11",
+            "district":"Aparecida",
+            "city_state": "Santos/SP"
+                },
+                "delivery_method": "Moto",
+                "cnh": "cnh-digital.jpg"  
+    },
+    "email_inv": { 
+        "name": "Juliana França",
+        "cpf" : "99998888899",
+        "email" : "juliana.franca.br",
+        "whatsaap" : "13999999999",
+        
+        "address" : {
+        "postalcode" : "11025-202",
+         "street" : "Rua Alexandre Martins",
+         "number" : "111",
+         "details" : "Apto 11",
+         "district": "Aparecida",
+         "city_state" : "Santos/SP"
+        },
+        "delivery_method" : "Moto",
+        "cnh" : "cnh-digital.jpg" 
+        }
+
+
+
+    }
+
